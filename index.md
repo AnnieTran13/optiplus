@@ -35,17 +35,21 @@ These charts were created using numerous surveys to gage how people were dealing
 \
 ![Graph1](https://github.com/AnnieTran13/optiplus/blob/gh-pages/graph1.png?raw=true)
 \
-![Graph1](https://github.com/AnnieTran13/optiplus/blob/gh-pages/graph2.png?raw=true)
+![Graph2](https://github.com/AnnieTran13/optiplus/blob/gh-pages/graph2.png?raw=true)
 \
 During the pandemic,17% of Canadians have increased their substance use as coping mechanisms and 10 % have experienced suicidal ideations, according to a study done by the University of British Columbia 
 \
-![Graph1](https://github.com/AnnieTran13/optiplus/blob/gh-pages/graph3.png?raw=true)
+![Graph3](https://github.com/AnnieTran13/optiplus/blob/gh-pages/graph3.png?raw=true)
 
 ## User Personas
+![persona1](https://github.com/AnnieTran13/optiplus/blob/gh-pages/persona1.png?raw=true)
+\
+![persona2](https://github.com/AnnieTran13/optiplus/blob/gh-pages/persona2.png?raw=true)
 
 ## User Goals
-
-## User Journey
+The problem to address and the user needs.\
+Kate wants to stay healthy and keep the balanced lifestyle in enjoyable maneer. She doesn’t want to spend a lot of time and energy figuring out how to use an application. Meantime, she wants it to help her find new healthy recipes and watch for her daily calories intakes. She gets easly overwhelmed with the amount of information and instructions so she needs specific choices. \    
+The positive feeling while and after using it.
 
 # Design Process
 
@@ -76,8 +80,3 @@ We used Figma's Open Sans which is a humanist, sans-serif font by Steve Matteson
 # Final Design
 This is the final design of our product with only the Fitness app and the Mood+ app having more design.
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="400" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FacmNjr4sWPArGGwSssYfjh%2FSOEN357-Mini-project%3Fnode-id%3D103%253A17%26scaling%3Dscale-down" allowfullscreen></iframe>
-
-# Conclusion
-### What We Learned
-
-
