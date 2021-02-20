@@ -79,5 +79,8 @@ We used Figma's Open Sans which is a humanist, sans-serif font by Steve Matteson
 ![typography](https://github.com/AnnieTran13/optiplus/blob/gh-pages/Typography.png?raw=true)
 
 # Final Design
-This is the final design of our product with only the Fitness app and the Mood+ app having more design.
+This is the final design of our product. It has a login screen that directs you to the main page after logging in. The main page is composed of 2 categories: physical health and mental health. \
+Physical health is composed of the following apps: Nutrition(manage diets and offer tasty recipes with calories counting), Screen time(manage screen time usage), Fitness(track daily records and offer variety of workouts), Sleep(optimize user's sleeping schedule), Cycle Tracking(mentrual flow tracker) and a +(plus) function to add/delete apps that the user wants to display on their main page. \
+Mental health is composed of the following apps: Mood+(mood improvement app), habit tracker(positive/negative habits tracker), Talk+(online therapy), meditate(selection of meditation routine) anda +(plus) function to add/delete apps that the user wants to display on their main page. \
+Currently only the Fitness and the Mood+ app have more designing in the following prototype. \
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="400" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FacmNjr4sWPArGGwSssYfjh%2FSOEN357-Mini-project%3Fnode-id%3D103%253A17%26scaling%3Dscale-down" allowfullscreen></iframe>
