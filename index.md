@@ -24,6 +24,9 @@ WeChat promotes physical activity with its feature called WeRun which, with your
 \
 Unfortunately, other than step tracker, WeChat does not have any other features to promote a more active life or healthier screen habits.
 
+### Another problem with the current market
+Most popular super apps are from Asia, which means they can’t be effectively used outside of their respective countries. The Facebook company has ambitions to create a super app and has a lot of potential to become one but once again, it is not highly focused on wellbeing and promoting a healthy lifestyle.
+\
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="400" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FacmNjr4sWPArGGwSssYfjh%2FSOEN357-Mini-project%3Fnode-id%3D103%253A17%26scaling%3Dscale-down" allowfullscreen></iframe>
 
