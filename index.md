@@ -53,18 +53,18 @@ The positive feeling while and after using it.
 
 # Design Process
 
-### Sketches
+## Sketches
 Since a super app is composed of multiple apps, we wanted to clearly define each feature and categorize them into either physical health or mental health. We came up with an octopus as a logo because the name OptiPlus+ ressemblance to it. In addition to that, an octupus has multiple arms just like how a super app has multiple apps. This is the sketch we came up with after brainstorming.
 \
 ![sketch](https://github.com/AnnieTran13/optiplus/blob/gh-pages/sketch.png?raw=true)
 
-### Wireframes
+## Wireframes
 After sketching, we started creating a wireframe on Figma which also became the mockup for our app. 
 ![wireframe](https://github.com/AnnieTran13/optiplus/blob/gh-pages/wireframe.png?raw=true)
 
 # Visual Design
 
-### Color Palette
+## Color Palette
 For the color palette of the main page and logo, we went with a beautiful yellow to pink gradient. The color yellow signifies positivity which we like to promote in our app while the color pink represents love. Loving yourself is very important hence why we want to encourage taking care of one's self both physically and mentally.
 \
 ![color1](https://github.com/AnnieTran13/optiplus/blob/gh-pages/color1.png?raw=true)
@@ -72,7 +72,7 @@ For the color palette of the main page and logo, we went with a beautiful yellow
 For the main color of the background, we wanted to incorporate a more dark theme and dark neutral colors to please the eyes.
 ![color2](https://github.com/AnnieTran13/optiplus/blob/gh-pages/color2.png?raw=true)
 
-### Typography
+## Typography
 We used Figma's Open Sans which is a humanist, sans-serif font by Steve Matteson. It's neutral but friendly appearance is perfect for our interface.
 \
 ![typography](https://github.com/AnnieTran13/optiplus/blob/gh-pages/Typography.png?raw=true)
