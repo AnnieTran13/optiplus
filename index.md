@@ -33,11 +33,11 @@ Most popular super apps are from Asia, which means they can’t be effectively u
 ## Surveys
 These charts were created using numerous surveys to gage how people were dealing with the pandemic on a mental and a physical level. 
 \
-![Graph1](https://github.com/AnnieTran13/optiplus/blob/gh-pages/graph1.png.png?raw=true)
+![Graph1](https://github.com/AnnieTran13/optiplus/blob/gh-pages/graph1.png?raw=true)
 
-![Graph1](https://github.com/AnnieTran13/optiplus/blob/gh-pages/graph2.png.png?raw=true)
+![Graph1](https://github.com/AnnieTran13/optiplus/blob/gh-pages/graph2.png?raw=true)
 
-![Graph1](https://github.com/AnnieTran13/optiplus/blob/gh-pages/graph3.png.png?raw=true)
+![Graph1](https://github.com/AnnieTran13/optiplus/blob/gh-pages/graph3.png?raw=true)
 
 
 
