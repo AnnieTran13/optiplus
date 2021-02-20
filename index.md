@@ -10,12 +10,12 @@ A super app is an all-in-one application that houses multiple other applications
 ## Understanding the problem
 Ever since the quarantine began, screen time has increased substanstally. Our health is greatly affected by COVID-19 and its implemented restrictions, both mentally and physically. We think it is important to support a healthy lifestyle while also providing a seamless user experience. Therefore, we aim to provide a platform that delivers both magnificently. Our superapp will offer features such as physical health support and mental health support. Our physical health support include services related to nutrition, fitness, sleep, screen time and more. Our mental health support includes services such mood improvement activities, habit tracker, online therapy and more.
 
-## Research
+# Research
 
-# Current Market
+### Current Market
 Many super apps exist on the market already but they aren’t highly focused on creating a healthy lifestyle or promoting healthy screen habits. One of them being WeChat.
 
-# WeChat
+### WeChat
 WeChat is a very successful Chinese multi-purpose super app with over 1 billion monthly active users. It is mainly used for messaging, social media and mobile payments. 
 \
 WeChat promotes physical activity with its feature called WeRun which, with your permission, will track the number of steps you take and notify you when you are close to your goal. They also promote friendly competition with their daily leaderboard to match up with your friends.
