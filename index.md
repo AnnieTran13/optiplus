@@ -19,7 +19,10 @@ Many super apps exist on the market already but they aren’t highly focused on 
 WeChat is a very successful Chinese multi-purpose super app with over 1 billion monthly active users. It is mainly used for messaging, social media and mobile payments. 
 \
 WeChat promotes physical activity with its feature called WeRun which, with your permission, will track the number of steps you take and notify you when you are close to your goal. They also promote friendly competition with their daily leaderboard to match up with your friends.
-
+\
+![WeChat](https://github.com/AnnieTran13/optiplus/blob/gh-pages/Screenshot%202021-02-19%20192820.png?raw=true)
+\
+Unfortunately, other than step tracker, WeChat does not have any other features to promote a more active life or healthier screen habits.
 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="400" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FacmNjr4sWPArGGwSssYfjh%2FSOEN357-Mini-project%3Fnode-id%3D103%253A17%26scaling%3Dscale-down" allowfullscreen></iframe>
