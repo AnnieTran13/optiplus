@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# OptiPlus+ - Super App For a Healthy Lifestyle
 
-You can use the [editor on GitHub](https://github.com/AnnieTran13/optiplus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
+## Introduction
+With the increasing use of technology in daily life, devices are now littered with applications for everyday needs. It becomes a hassle to go back and forth between apps to complete different tasks and it also becomes a hassle to organise them all in an optimal way. With COVID-19’s appearance, the lockdown and the imposed curfew has stimulated the online market and online services. Subsequentially to the growing number of applications, an all-in-one approach was was born, the superapp!
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## What is a Super App?
+A super app is an all-in-one application that houses multiple other applications. It saves space on your phone and it makes it more convenient for the user to access the needed applications.
 
-# Header 1
-## Header 2
-### Header 3
+## Understanding the problem
 
-- Bulleted
-- List
+Ever since the quarantine began, screen time has increased substanstally. Our health is greatly affected by COVID-19 and its implemented restrictions, both mentally and physically. We think it is important to support a healthy lifestyle while also providing a seamless user experience. Therefore, we aim to provide a platform that delivers both magnificently. Our superapp will offer features such as physical health support and mental health support. Our physical health support include services related to nutrition, fitness, sleep, screen time and more. Our mental health support includes services such mood improvement activities, habit tracker, online therapy and more.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnnieTran13/optiplus/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
