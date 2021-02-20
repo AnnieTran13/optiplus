@@ -51,6 +51,7 @@ The problem to address and the user needs.\
 Kate wants to stay healthy and keep the balanced lifestyle in enjoyable maneer. She doesn’t want to spend a lot of time and energy figuring out how to use an application. Meantime, she wants it to help her find new healthy recipes and watch for her daily calories intakes. She gets easly overwhelmed with the amount of information and instructions so she needs specific choices. \    
 The positive feeling while and after using it.
 
+
 # Design Process
 
 ## Sketches
