@@ -34,20 +34,34 @@ Most popular super apps are from Asia, which means they can’t be effectively u
 These charts were created using numerous surveys to gage how people were dealing with the pandemic on a mental and a physical level. 
 \
 ![Graph1](https://github.com/AnnieTran13/optiplus/blob/gh-pages/graph1.png?raw=true)
-
+\
 ![Graph1](https://github.com/AnnieTran13/optiplus/blob/gh-pages/graph2.png?raw=true)
-
+\
+During the pandemic,17% of Canadians have increased their substance use as coping mechanisms and 10 % have experienced suicidal ideations, according to a study done by the University of British Columbia 
+\
 ![Graph1](https://github.com/AnnieTran13/optiplus/blob/gh-pages/graph3.png?raw=true)
+\
+## User Personas
 
+## User Goals
 
+## User Journey
 
+# Design Process
 
+## Sketches
 
+## Wireframes
 
+## Color Palette
 
+## Typography
 
+# Final Design
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="400" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FacmNjr4sWPArGGwSssYfjh%2FSOEN357-Mini-project%3Fnode-id%3D103%253A17%26scaling%3Dscale-down" allowfullscreen></iframe>
+
+# Conclusion
 
 
 
