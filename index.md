@@ -47,10 +47,12 @@ During the pandemic,17% of Canadians have increased their substance use as copin
 ![persona2](https://github.com/AnnieTran13/optiplus/blob/gh-pages/persona2.png?raw=true)
 
 ## User Goals
-The problem to address and the user needs.\
-Kate wants to stay healthy and keep the balanced lifestyle in enjoyable maneer. She doesn’t want to spend a lot of time and energy figuring out how to use an application. Meantime, she wants it to help her find new healthy recipes and watch for her daily calories intakes. She gets easly overwhelmed with the amount of information and instructions so she needs specific choices. \    
-The positive feeling while and after using it.
+Kate wants to stay healthy and keep the balanced lifestyle in an enjoyable manner. She doesn’t want to spend a lot of time and energy figuring out how to use an application. Meantime, she wants it to help her find new healthy recipes and watch for her daily calorie intakes. She gets easily overwhelmed with the amount of information and instructions so she needs specific choices  
+In the other hand, Raj wants to be more confident. Applications such as Habit Tracker, Meditate, or Talk will help him tackle this issue and log how he feels during his journey. The calorie calculator will definitely help him improve his athletic performance by controlling the macronutrients depending on his workouts.  
+The SuperApp is designed to make it easy to navigate between applications regardless on how well a user is familiar with technologies. The applications icons and names are self explenatory. Which prevent users to get confused and frustrated. The whole design aims to make the interactions both enjoyable and stylish in order to keep the users “hocked”. The colors are simple and minimalist. It takes less effort to navigate through the superApp without being overwhelmed with the colors contrasts. The black and the purple promote creativity, success, luxury, and strenght. Features most organised people would make them feel empowered and pleased. 
 
+## User Journey
+![userjourney](https://github.com/AnnieTran13/optiplus/blob/gh-pages/userjourney.png?raw=true)
 
 # Design Process
 
