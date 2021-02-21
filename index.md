@@ -1,4 +1,8 @@
 # OptiPlus+ - Super App For a Healthy Lifestyle
+Group project - Team members
+Annie Tran - 40065592
+Cheikh Diagne - 40094098
+Oussama Zouhadi - 26453392
 
 ## Introduction
 With the increasing use of technology in daily life, devices are now littered with applications for everyday needs. It becomes a hassle to go back and forth between apps to complete different tasks and it also becomes a hassle to organise them all in an optimal way. With COVID-19’s appearance, the lockdown and the imposed curfew has stimulated the online market and online services. Subsequentially to the growing number of applications, an all-in-one approach was was born, the superapp!
